@@ -1,1 +1,1 @@
-# K-A-Yash-Amogh-Astar-and-BFS
+#DINESH-Astar-and-BFS
